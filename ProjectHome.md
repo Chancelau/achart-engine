@@ -1,0 +1,1 @@
+This is the Demo Projet of the project achartengine(http://code.google.com/p/achartengine/) configured to run in my machine.
